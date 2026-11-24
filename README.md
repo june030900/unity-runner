@@ -4,7 +4,7 @@
 
 角色自动向前奔跑，玩家通过跳跃躲避迎面而来的障碍，跑得越远得分越高，速度与难度随进度动态提升。
 
-> 演示视频：https://t.bilibili.com/1274268181992570896
+> 演示视频：【像素跑酷 · Unity 2D 小游戏 Demo】https://www.bilibili.com/video/BV1GV1czpEUa?vd_source=f32b747dc676fe7f47f0398cdb01e412
 >
 
 
